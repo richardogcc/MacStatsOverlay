@@ -1,0 +1,8 @@
+{
+  "name": "MacStatsOverlay",
+  "bundleId": "com.richardogcc.macstatsoverlay",
+  "description": "Glassy translucent overlay showing live system stats, toggled by global hotkey or menu bar icon.",
+  "repo": "richardogcc/MacStatsOverlay",
+  "minMacOS": "14.0",
+  "artifact": "MacStatsOverlay-{version}.dmg"
+}
